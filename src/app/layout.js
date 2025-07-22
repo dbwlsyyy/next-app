@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
                         <a href="read/1">html</a>
                     </li>
                     <li>
-                        <a href="rea/2">css</a>
+                        <a href="read/2">css</a>
                     </li>
                 </ol>
                 {children}
